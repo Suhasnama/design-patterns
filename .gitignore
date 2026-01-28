@@ -34,3 +34,5 @@
 **/.vscode/
 
 /lld-text-editor/target
+
+/lld-parking-lot/target
